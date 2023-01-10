@@ -21,4 +21,4 @@ int i,j,k,temp,e;
    
     for(e=0;e<20;e++){
         printf("    %d\n",werte[e]);
-    }
+    }}
