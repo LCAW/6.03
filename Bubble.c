@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// ich wurde geändert
 // Werte einlesen
 int main(){
 int werte[20],i,j,k,temp,e;
