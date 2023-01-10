@@ -2,7 +2,7 @@
 // ich wurde geändert
 // Werte einlesen
 int main(){
-int werte[],i,j,k,temp,e;
+int werte[20],i,j,k,temp,e;
     /*for(i=0; i<20; i++) {
     printf("\nBitte geben Sie einen Wert ein (ganze Zahl): ");
     scanf("%d", &werte[i]);
