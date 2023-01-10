@@ -10,7 +10,7 @@ int i,j,k,temp,e;
    int werte[20]= {4,3,5,64,75,33,43,54,636,555,45,6,44,90,87,1,2,3,4};
     
     for(j=0;j<20;j++){
-        for(k=0;k<20-j;k++){
+        for(k=0;k<20-j-1;k++){
             if(werte[k]>werte[k+1]){
                 temp=werte[k];
                 werte[k]=werte[k+1];
